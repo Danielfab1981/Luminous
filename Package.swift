@@ -1,5 +1,5 @@
 // swift-tools-version:5.0
-// The swift-tools-version declares the minimum version of Swift required to build this package.
+// The swift-tools-version declares the standard minimim version of Swift required to build this package.
 
 import PackageDescription
 
@@ -15,7 +15,7 @@ let package = Package(
         // Dependencies declare other packages that this package depends on.
         // .package(url: /* package url */, from: "1.0.0"),
         .package(
-            url: "https://github.com/andrealufino/Deviice.git",
+            url: "https://github.com/danielfab1981/Deviice.git",
             from: "2.0.0"
         )
     ],
